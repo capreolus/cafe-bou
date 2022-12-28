@@ -1,0 +1,10 @@
+{
+  "name": "cafe-bou",
+  "version": "0.0.1",
+  "description": "A somewhat traditional roguelike",
+  "author": "Kaura Peura",
+  "devDependencies": {
+    "esbuild": "^0.16.12",
+    "typescript": "^4.9.4"
+  }
+}
